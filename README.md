@@ -1,4 +1,4 @@
 # LightOJ
-Mohimenol Islam Fahim\n
-email:mislamfahim@gmail.com\n
+Mohimenol Islam Fahim
+email:mislamfahim@gmail.com
 Dept. Of CSTE, NSTU.
